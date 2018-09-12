@@ -1,0 +1,14 @@
+*.png
+*.mp4
+*.pkl
+*.jpg
+*.caffemodel
+*.pdf
+cnn-keras/*
+imutils/*
+facial-landmarks/*
+hobbit-lotr-image-search-engine/*
+python-kmeans-dominant-colors/*
+opencv-semantic-segmentation/*
+neural-style-transfer/*
+imutils/*
