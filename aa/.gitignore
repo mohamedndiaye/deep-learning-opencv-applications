@@ -12,3 +12,4 @@ python-kmeans-dominant-colors/*
 opencv-semantic-segmentation/*
 neural-style-transfer/*
 imutils/*
+drowsiness-detection/shape_predictor_68_face_landmarks.dat
